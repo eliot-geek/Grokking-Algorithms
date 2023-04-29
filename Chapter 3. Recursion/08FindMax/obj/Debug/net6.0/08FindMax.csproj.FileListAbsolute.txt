@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\bin\Debug\net6.0\08FindMax.exe
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\bin\Debug\net6.0\08FindMax.deps.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\bin\Debug\net6.0\08FindMax.runtimeconfig.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\bin\Debug\net6.0\08FindMax.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\bin\Debug\net6.0\08FindMax.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\refint\08FindMax.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\08FindMax.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\08FindMax\obj\Debug\net6.0\ref\08FindMax.dll

@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\bin\Debug\net6.0\09SumArray.exe
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\bin\Debug\net6.0\09SumArray.deps.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\bin\Debug\net6.0\09SumArray.runtimeconfig.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\bin\Debug\net6.0\09SumArray.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\bin\Debug\net6.0\09SumArray.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\refint\09SumArray.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\09SumArray.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\09SumArray\obj\Debug\net6.0\ref\09SumArray.dll
