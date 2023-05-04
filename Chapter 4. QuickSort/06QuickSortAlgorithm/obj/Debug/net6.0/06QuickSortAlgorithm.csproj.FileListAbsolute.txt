@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\bin\Debug\net6.0\06QuickSortAlgorithm.exe
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\bin\Debug\net6.0\06QuickSortAlgorithm.deps.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\bin\Debug\net6.0\06QuickSortAlgorithm.runtimeconfig.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\bin\Debug\net6.0\06QuickSortAlgorithm.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\bin\Debug\net6.0\06QuickSortAlgorithm.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\refint\06QuickSortAlgorithm.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\06QuickSortAlgorithm.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\06QuickSortAlgorithm\obj\Debug\net6.0\ref\06QuickSortAlgorithm.dll

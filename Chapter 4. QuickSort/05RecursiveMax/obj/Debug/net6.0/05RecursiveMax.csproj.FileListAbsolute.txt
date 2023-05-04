@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\bin\Debug\net6.0\05RecursiveMax.exe
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\bin\Debug\net6.0\05RecursiveMax.deps.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\bin\Debug\net6.0\05RecursiveMax.runtimeconfig.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\bin\Debug\net6.0\05RecursiveMax.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\bin\Debug\net6.0\05RecursiveMax.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\refint\05RecursiveMax.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\05RecursiveMax.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\05RecursiveMax\obj\Debug\net6.0\ref\05RecursiveMax.dll
