@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\bin\Debug\net6.0\03RecursiveSum.exe
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\bin\Debug\net6.0\03RecursiveSum.deps.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\bin\Debug\net6.0\03RecursiveSum.runtimeconfig.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\bin\Debug\net6.0\03RecursiveSum.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\bin\Debug\net6.0\03RecursiveSum.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\refint\03RecursiveSum.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\03RecursiveSum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\03RecursiveSum\obj\Debug\net6.0\ref\03RecursiveSum.dll

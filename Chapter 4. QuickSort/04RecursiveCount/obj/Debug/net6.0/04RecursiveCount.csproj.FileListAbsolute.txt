@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\bin\Debug\net6.0\04RecursiveCount.exe
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\bin\Debug\net6.0\04RecursiveCount.deps.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\bin\Debug\net6.0\04RecursiveCount.runtimeconfig.json
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\bin\Debug\net6.0\04RecursiveCount.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\bin\Debug\net6.0\04RecursiveCount.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\refint\04RecursiveCount.dll
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.pdb
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\04RecursiveCount.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Grokking Algorithms\GrokkingAlgorithmsAnIllustratedGuideForProgrammers\04RecursiveCount\obj\Debug\net6.0\ref\04RecursiveCount.dll
